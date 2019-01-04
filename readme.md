@@ -7,7 +7,7 @@
 
 ## optimize performance...
 
-1. after gevent path the code block in cpython ??? but not block in pypy ??????
+1. after gevent patch the code block in cpython ??? but not block in pypy ??????
 2. idle connection more smart sweap
 3. raw socket op slow
 
