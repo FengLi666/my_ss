@@ -1,6 +1,4 @@
 # todo
-## ~~~build a rough framework~~~
-ok...?
 
 ## more detail...
 1. impletment ss local-server communicate protocal ...
